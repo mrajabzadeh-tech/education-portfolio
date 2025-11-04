@@ -21,8 +21,12 @@ Verified online course certificates completed on Coursera, FutureLearn, and othe
 - A+ Core 1 V15 - Pearson Cert Prep - Pearson
   [View Certificate](https://coursera.org/verify/specialization/HLM5EFUZC14C)
 
-### Research & Academic Skills
+### Research & Academic Skills:
 - Academic Information Seeking - Univ. of Copenhagen
   [View Certificate](https://coursera.org/verify/JKL789)
 - Understanding Research Methods - SOAS University of London
   [View Certificate](https://coursera.org/verify/V8BFC4WDIE2C)
+
+### Others:
+- Get Started with Python - Google
+  [View Certificate](https://coursera.org/verify/ILMN7Y1VQT6T)
