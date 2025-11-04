@@ -30,3 +30,7 @@ Verified online course certificates completed on Coursera, FutureLearn, and othe
 ### Others:
 - Get Started with Python - Google
   [View Certificate](https://coursera.org/verify/ILMN7Y1VQT6T)
+- IELTS Speaking - Teacher Training Program – Understanding the IELTS Assessment Criteria
+- IELTS Writing - Teacher Training Program - Understanding the IELTS Assessment Criteria
+- IELTS Preparation - UC Irvine
+  [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/NPG88BHBBEMC)
