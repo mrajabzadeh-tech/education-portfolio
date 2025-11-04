@@ -6,7 +6,7 @@ Verified online course certificates completed on Coursera, FutureLearn, and othe
 ### Renewable Energy and Power Systems:
 - Energy Production, Distribution & Safety - The State University of New York & University at Buffalo
   [View Certificate](https://coursera.org/verify/specialization/09ZK92R4JADA)
-- Renewable Energy – University of Colorado Boulder  
+- Renewable Energy – University of Colorado Boulder
   [View Certificate](https://coursera.org/verify/specialization/9HN5JVN35W4B)
 - Powering the Future with Electrification - MathWorks
   [View Certificate](https://www.coursera.org/account/accomplishments/records/PNKQ199K10UJ)
