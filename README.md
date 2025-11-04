@@ -3,14 +3,24 @@ Verified online course certificates completed on Coursera, FutureLearn, and othe
 
 # Mohammadreza Rajabzadeh – Certificates
 
-### Renewable Energy
-- Renewable Power and Electricity Systems – University of Colorado Boulder  
-  [View Certificate](https://coursera.org/verify/ABC123)
+### Renewable Energy and Power Systems:
+- Energy Production, Distribution & Safety - The State University of New York & University at Buffalo
+  [View Certificate](https://coursera.org/verify/specialization/09ZK92R4JADA)
+- Renewable Energy – University of Colorado Boulder  
+  [View Certificate](https://coursera.org/verify/specialization/9HN5JVN35W4B)
 
-### Cybersecurity
-- Foundations of Cybersecurity – Google  
-  [View Certificate](https://coursera.org/verify/XYZ456)
+### Cybersecurity and IT:
+- Linux Security Basics and Beyond - Pearson
+  [View Certificate](https://coursera.org/verify/specialization/TXAJXFGUCMOK)
+- Cybersecurity for Citizens and Professionals - Univ. of Padova
+  [View Certificate](https://futurelearn.com/certificates/iiiocd7)
+- Cybersecurity for Everyone, Univ. of Maryland
+  [View Certificate](https://coursera.org/verify/WVTR6BIQEBDG)
+- A+ Core 1 V15 - Pearson Cert Prep - Pearson
+  [View Certificate](https://coursera.org/verify/specialization/HLM5EFUZC14C)
 
 ### Research & Academic Skills
-- Academic Skills for University Success – University of Sydney  
+- Academic Information Seeking - Univ. of Copenhagen  
   [View Certificate](https://coursera.org/verify/JKL789)
+- Understanding Research Methods - SOAS University of London
+  [View Certificate](https://coursera.org/verify/V8BFC4WDIE2C)
