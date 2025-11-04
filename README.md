@@ -8,6 +8,8 @@ Verified online course certificates completed on Coursera, FutureLearn, and othe
   [View Certificate](https://coursera.org/verify/specialization/09ZK92R4JADA)
 - Renewable Energy – University of Colorado Boulder  
   [View Certificate](https://coursera.org/verify/specialization/9HN5JVN35W4B)
+- Powering the Future with Electrification - MathWorks
+  [View Certificate](https://www.coursera.org/account/accomplishments/records/PNKQ199K10UJ)
 
 ### Cybersecurity and IT:
 - Linux Security Basics and Beyond - Pearson
@@ -20,7 +22,7 @@ Verified online course certificates completed on Coursera, FutureLearn, and othe
   [View Certificate](https://coursera.org/verify/specialization/HLM5EFUZC14C)
 
 ### Research & Academic Skills
-- Academic Information Seeking - Univ. of Copenhagen  
+- Academic Information Seeking - Univ. of Copenhagen
   [View Certificate](https://coursera.org/verify/JKL789)
 - Understanding Research Methods - SOAS University of London
   [View Certificate](https://coursera.org/verify/V8BFC4WDIE2C)
