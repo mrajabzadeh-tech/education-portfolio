@@ -21,7 +21,7 @@ Verified online course certificates completed on Coursera, FutureLearn, and othe
 - A+ Core 1 V15 - Pearson Cert Prep - Pearson
   [View Certificate](https://coursera.org/verify/specialization/HLM5EFUZC14C)
 - Google Cybersecurity Professional Certificate
-- [View Certificate](https://coursera.org/verify/professional-cert/ZQ7Q34V9TIWH)
+  [View Certificate](https://coursera.org/verify/professional-cert/ZQ7Q34V9TIWH)
 
 ### Research & Academic Skills:
 - Academic Information Seeking - Univ. of Copenhagen
